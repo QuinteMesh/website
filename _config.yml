@@ -1,0 +1,6 @@
+title: Quinte Mesh
+description: Local mesh network landing page
+markdown: kramdown
+exclude:
+  - README.md
+  - LICENSE
