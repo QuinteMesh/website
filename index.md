@@ -19,5 +19,6 @@ Our mission is to build a resilient, decentralized mesh network accessible to th
 
 ### Inaugural meeting
 
-When: **Tuesday the 27th of January from 6pm to 7:30pm**
-Where: **[Room 2H27, Kente building](https://loyalistbanner.com/ceweb/img/Kente.pdf), [Loyalist College](https://maps.app.goo.gl/q3VYi8haSkbzCeFz5)** 
+When: **Tuesday the 27th of January from 6pm to 7:30pm**  
+Where: **[Room 2H27, Kente building](https://loyalistbanner.com/ceweb/img/Kente.pdf), [Loyalist College](https://maps.app.goo.gl/q3VYi8haSkbzCeFz5)**  
+[**RSVP here**](https://www.eventbrite.ca/e/quinte-mesh-inaugural-meeting-tickets-1980568702304?aff=oddtdtcreator)
