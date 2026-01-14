@@ -16,4 +16,4 @@ Our mission is to build a resilient, decentralized mesh network accessible to th
 * **Local Connection:** Serving residents, businesses, and municipal governments.
 * **Education:** Providing hands-on technology learning opportunities.
 
-Inaugural meeting coming soon. Stay tuned.
+Inaugural meeting **Tuesday the 27th of January from 6pm to 7:30pm**. Location TBC.
