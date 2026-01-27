@@ -1,0 +1,10 @@
+---
+layout: slides
+title: Quinte Mesh - Inaugural Meeting
+---
+{% assign slides = site.slides | sort: "path" %}
+{% for slide in slides %}
+<section{% if slide.slide_class %} class="{{ slide.slide_class }}"{% endif %}>
+{{ slide.content }}
+</section>
+{% endfor %}

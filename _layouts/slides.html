@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/theme/white.css">
+    <style>
+      :root {
+        --r-background-color: #ffffff;
+        --r-main-font: "Nunito", "Avenir Next", "Avenir", sans-serif;
+        --r-main-font-size: 38px;
+        --r-main-color: #111111;
+        --r-heading-font: "Nunito", "Avenir Next", "Avenir", sans-serif;
+        --r-heading-color: #111111;
+        --r-heading-font-weight: 700;
+        --r-link-color: #2a76dd;
+        --r-link-color-hover: #1a5bb5;
+      }
+      .reveal h1 {
+        font-size: 2.5em;
+        margin-bottom: 0.5em;
+      }
+      .reveal h2 {
+        font-size: 1.8em;
+        margin-bottom: 0.5em;
+      }
+      .reveal h3 {
+        font-size: 1.3em;
+        margin-bottom: 0.5em;
+      }
+      .reveal ul {
+        margin: 0.5em 0;
+      }
+      .reveal li {
+        margin: 0.3em 0;
+      }
+      .reveal .slides section {
+        text-align: left;
+      }
+      .reveal .slides section.center {
+        text-align: center;
+      }
+      .reveal img {
+        border: none;
+        box-shadow: none;
+        background: transparent;
+      }
+      .reveal .logo {
+        max-width: 300px;
+        margin: 0 auto 1em;
+      }
+      .reveal .subtitle {
+        font-size: 0.7em;
+        color: #666;
+        font-weight: 400;
+      }
+      .reveal .mesh-diagram {
+        max-width: 600px;
+        margin: 1em auto;
+      }
+      .reveal .small {
+        font-size: 0.8em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        {{ content }}
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.0.4/dist/reveal.min.js"></script>
+    <script>
+      Reveal.initialize({
+        hash: true,
+        transition: 'slide',
+        backgroundTransition: 'fade',
+        controls: true,
+        progress: true,
+        center: false,
+        width: 1200,
+        height: 700,
+        margin: 0.1
+      });
+    </script>
+  </body>
+</html>
