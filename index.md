@@ -75,6 +75,7 @@ Come say hi in the [Discord](https://discord.gg/FdBbEZnQ) and we'll help you get
   <li><a href="https://ottawamesh.ca/">OttawaMesh.ca</a> - Settings guides, hardware recommendations, and FAQs</li>
   <li><a href="https://meshcore.ca/">MeshCore.ca</a> - Directory of MeshCore communities across Canada</li>
   <li><a href="https://meshcore.dev/">MeshCore.dev</a> - Official MeshCore project and documentation</li>
+  <li><a href="https://www.austinmesh.org/join/property-owner-faq-hosting-a-node/">Property Owner FAQ</a> - Austin Mesh's FAQ on node hosting</li>
   <li><a href="https://discord.gg/FdBbEZnQ">Quinte Mesh Discord</a> - Community chat and support</li>
 </ul>
 
