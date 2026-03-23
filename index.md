@@ -50,9 +50,9 @@ For setup guides and hardware recommendations, check out [OttawaMesh.ca](https:/
 
 ### Join the Community
 
-Our [Discord server](https://discord.gg/FdBbEZnQ) is where we coordinate, share updates, and help people get their nodes set up. There's also a **MeshCore bridge** that reposts messages from the public mesh channel, so you can follow network traffic in real time.
+Our [Discord server](https://discord.gg/V5esJEP67X) is where we coordinate, share updates, and help people get their nodes set up. There's also a **MeshCore bridge** that reposts messages from the public mesh channel, so you can follow network traffic in real time.
 
-<a href="https://discord.gg/FdBbEZnQ" class="btn">Join Our Discord</a>
+<a href="https://discord.gg/V5esJEP67X" class="btn">Join Our Discord</a>
 
 ---
 
@@ -65,7 +65,7 @@ You don't need to be technical to help out. We're looking for:
 * **Collaborators:** Local businesses, farmers, and hobbyists with ideas for the network.
 * **Organizers:** Anyone interested in helping with outreach and strategy.
 
-Come say hi in the [Discord](https://discord.gg/FdBbEZnQ) and we'll help you get started.
+Come say hi in the [Discord](https://discord.gg/V5esJEP67X) and we'll help you get started.
 
 ---
 
@@ -76,7 +76,7 @@ Come say hi in the [Discord](https://discord.gg/FdBbEZnQ) and we'll help you get
   <li><a href="https://meshcore.ca/">MeshCore.ca</a> - Directory of MeshCore communities across Canada</li>
   <li><a href="https://meshcore.dev/">MeshCore.dev</a> - Official MeshCore project and documentation</li>
   <li><a href="https://www.austinmesh.org/join/property-owner-faq-hosting-a-node/">Property Owner FAQ</a> - Austin Mesh's FAQ on node hosting</li>
-  <li><a href="https://discord.gg/FdBbEZnQ">Quinte Mesh Discord</a> - Community chat and support</li>
+  <li><a href="https://discord.gg/V5esJEP67X">Quinte Mesh Discord</a> - Community chat and support</li>
 </ul>
 
 ---
@@ -86,5 +86,5 @@ Come say hi in the [Discord](https://discord.gg/FdBbEZnQ) and we'll help you get
 <div class="sponsors-placeholder">
   <strong>Want to support Quinte Mesh?</strong><br><br>
   We're looking for <strong>sponsors</strong> (local businesses, municipalities, community organizations, or neighbours) willing to buy a node and <strong>supporters</strong> willing to host a node at their location.<br><br>
-  Reach out on <a href="https://discord.gg/FdBbEZnQ">Discord</a> if you're interested.
+  Reach out on <a href="https://discord.gg/V5esJEP67X">Discord</a> if you're interested.
 </div>
